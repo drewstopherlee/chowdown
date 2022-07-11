@@ -16,6 +16,7 @@ ingredients:
 - 1/2 cup of milk
 - 8 ounce whipped topping (defrosted)
 - 1/4 cup of chocolate syrup
+  - Alternatively, chocolate powder or chocolate chips will work as a topping.
 
 directions:
 - Preheat oven to 450°F and grease a 9x13" baking pan.
@@ -32,3 +33,5 @@ directions:
 - Cover with whipped topping and drizzle with chocolate syrup. Store in the refrigerator.
 
 ---
+
+Mom used to make this all the time. 
