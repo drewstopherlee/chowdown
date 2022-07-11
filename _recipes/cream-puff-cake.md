@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Cream Puff Cake"
+title: "Cream Puff Cake"
 image: cream-puff-cake.jpg
 tags: dessert, sweet
 
