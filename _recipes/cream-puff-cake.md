@@ -29,6 +29,6 @@ directions:
 - Allow pan and dough to cool for about 30 - 45 minutes before adding cream filling.
 - Beat softened cream cheese in a mixing bowl.
 - Whisk together pudding and milk. Mix well. Add to cream cheese and mix slowly at first and then beat well. Pour over baked cream puff.
-- Cover with Cool Whip and drizzle with chocolate syrup. Store in the refrigerator.
+- Cover with whipped topping and drizzle with chocolate syrup. Store in the refrigerator.
 
 ---
