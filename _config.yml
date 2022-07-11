@@ -1,13 +1,13 @@
 # Site settings
 title: Chowdown
-email: your-email@domain.com
+email: andrew@andrewshaffer.tech
 description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+baseurl: "https://recipes.shaffer.network"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+twitter_username: andrewrshaffer
+github_username:  drewstopherlee
 
 # Build settings
 markdown: kramdown
