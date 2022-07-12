@@ -4,6 +4,7 @@ layout: recipe
 title: "Cream Puff Cake"
 image: cream-puff-cake.jpg
 tags: dessert, sweet
+yield: 1- 9x13" cake
 
 ingredients:
 - 1 cup of water
@@ -34,4 +35,4 @@ directions:
 
 ---
 
-Mom used to make this all the time. 
+Mom used to make this all the time.
