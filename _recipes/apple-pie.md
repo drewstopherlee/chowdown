@@ -4,6 +4,7 @@ title: "Apple Pie"
 image: apple-pie.jpeg
 tags: dessert, sweet, apple
 yield: 1 - 9" pie
+prepTime: 60 minutes
 
 ingredients:
 - 3 pound bag of Granny Smith or Jonagold apples
