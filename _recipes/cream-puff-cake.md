@@ -4,19 +4,19 @@ layout: recipe
 title: "Cream Puff Cake"
 image: cream-puff-cake.jpg
 tags: dessert, sweet
-yield: 1- 9x13" cake
+yield: (1) 9x13" cake
 
 ingredients:
 - 1 cup of water
-- 1/4 teaspoon of salt
-- 1/2 cup of butter (1 stick)
+- ¼ teaspoon of salt
+- ½ cup of butter (1 stick)
 - 4 eggs
 - 3 small packages of instant vanilla pudding
 - 1 cup of flour
 - 8 ounces cream cheese (1 brick, softened)
-- 1/2 cup of milk
-- 8 ounce whipped topping (defrosted)
-- 1/4 cup of chocolate syrup
+- ½ cup of milk
+- 1 (8 oz.) whipped topping (defrosted)
+- ¼ cup of chocolate syrup
   - Alternatively, chocolate powder or chocolate chips will work as a topping.
 
 directions:

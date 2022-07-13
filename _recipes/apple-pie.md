@@ -3,15 +3,16 @@ layout: recipe
 title: "Apple Pie"
 image: apple-pie.jpeg
 tags: dessert, sweet, apple
-yield: 1 - 9" pie
+yield: (1) 9" pie
 preptime: T1h
+cooktime: T45m
 
 ingredients:
-- 3 pound bag of Granny Smith or Jonagold apples
-- 3 pound bag of Fuji or Rome apples
+- 1 (3 lb) bag of Granny Smith OR Jonagold apples
+- 1 (3 lb) bag of Fuji OR Rome apples
 - 1 box of two (2) pre-made pie crusts (softened)
 - 1 cup of sugar
-- 1/2 cup of flour
+- ½ cup of flour
 - 1 tsp of cinnamon
 - Pinch of salt
 
