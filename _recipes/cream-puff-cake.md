@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: "Cream Puff Cake"
 image: cream-puff-cake.jpg

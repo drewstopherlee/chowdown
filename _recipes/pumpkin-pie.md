@@ -29,4 +29,16 @@ directions:
 - Reduce temperature to 350°F; bake for 40 to 50 minutes or until knife inserted near center comes out clean.
 - Cool on cooling rack for at least 2 hours before serving. Serve immediately or refrigerate. (Do not freeze as this will cause the crust to separate from the filling.)
 
+nutrition:
+    servingSize: One slice
+    calories: 282.8 cal
+    fatContent: 12.1g
+    saturatedFatContent: 4.7g
+    cholesterolContent: 58.7mg
+    sodiumContent: 357mg
+    carbohydrateContent: 38.7g
+    fiberContent: 2.7g
+    sugarContent: 25.8g
+    proteinContent: 6.4g
+
 ---
