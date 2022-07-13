@@ -6,6 +6,7 @@ tags: dessert, sweet, thanksgiving, pumpkin
 yield: (1) 9" deep dish pie
 preptime: T10m
 cooktime: T1h
+totaltime: T1h10m
 
 ingredients:
 - 1 (9 inch) unbaked deep dish pie crust
