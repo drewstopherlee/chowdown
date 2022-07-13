@@ -2,7 +2,7 @@
 layout: recipe
 title: "Pumpkin Pie"
 image: pumpkin-pie.jpeg
-tags: dessert, sweet
+tags: dessert, sweet, thanksgiving, pumpkin
 yield: (1) 9" deep dish pie
 preptime: T10m
 cooktime: T1h

@@ -2,7 +2,7 @@
 layout: recipe
 title: "Apple Pie"
 image: apple-pie.jpeg
-tags: dessert, sweet, apple
+tags: dessert, sweet, apple, thanksgiving
 yield: (1) 9" pie
 preptime: T1h
 cooktime: T45m
