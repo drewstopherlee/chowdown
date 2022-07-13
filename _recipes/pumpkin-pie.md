@@ -31,14 +31,14 @@ directions:
 
 nutrition:
     servingSize: One slice
-    calories: 282.8 cal
-    fatContent: 12.1g
-    saturatedFatContent: 4.7g
-    cholesterolContent: 58.7mg
-    sodiumContent: 357mg
-    carbohydrateContent: 38.7g
-    fiberContent: 2.7g
-    sugarContent: 25.8g
-    proteinContent: 6.4g
+    calories: 282.8
+    fatContent: 12.1
+    saturatedFatContent: 4.7
+    cholesterolContent: 58.7m
+    sodiumContent: 357
+    carbohydrateContent: 38.7
+    fiberContent: 2.7
+    sugarContent: 25.8
+    proteinContent: 6.4
 
 ---
