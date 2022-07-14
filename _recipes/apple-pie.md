@@ -2,6 +2,7 @@
 layout: recipe
 title: "Apple Pie"
 image: apple-pie.jpeg
+imagecredit: https://tasty.co/recipe/60-minute-apple-pie
 tags: dessert, sweet, apple, thanksgiving
 yield: (1) 9" pie
 preptime: T1h
@@ -27,5 +28,18 @@ directions:
 - If a whole pie crust is used for the top, cut slits or shapes in several places in the top crust.
 - Bake at 375°F for 40 to 45 minutes or until apples are tender and crust is golden brown. Cover edge of crust with 2- to 3-inch wide strips of foil after first 15 to 20 minutes of baking to prevent excessive browning.
 - Cool on cooling rack at least 2 hours before serving.
+
+nutrition:
+    servingSize: One slice
+    calories: 230
+    fatContent: 6
+    saturatedFatContent: 2.5
+    transFatContent: 0
+    cholesterolContent: 0
+    sodiumContent: 200
+    carbohydrateContent: 43
+    fiberContent: 1
+    sugarContent: 27
+    proteinContent: 1
 
 ---

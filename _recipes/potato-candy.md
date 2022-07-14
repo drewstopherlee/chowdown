@@ -2,13 +2,14 @@
 layout: recipe
 title: "Potato Candy"
 image: potato-candy.jpeg
+imagecredit: https://sugarspunrun.com/potato-candy/
 tags: dessert, sweet, peanut butter
 category:
 cuisine: American
 yield:
-preptime: T
-cooktime: T
-totaltime: T
+preptime: T30m
+cooktime: T1h
+totaltime: T1h30m
 
 ingredients:
 - 1 small-to-medium russet potato
@@ -21,7 +22,7 @@ directions:
 - Peel, dice, and boil potato until very tender. Do not season potato or water.
 - Drain potato pieces and mash very finely.
 - Allow potato to sit at room temperature until completely cool.
-- 
+-
 
 nutrition:
     servingSize: One pinwheel slice

@@ -2,6 +2,7 @@
 layout: recipe
 title: "Cream Puff Cake"
 image: cream-puff-cake.jpg
+imagecredit: https://plowingthroughlife.com/cream-puff-cake/
 tags: dessert, sweet
 yield: (1) 9x13" cake
 
@@ -31,6 +32,17 @@ directions:
 - Beat softened cream cheese in a mixing bowl.
 - Whisk together pudding and milk. Mix well. Add to cream cheese and mix slowly at first and then beat well. Pour over baked cream puff.
 - Cover with whipped topping and drizzle with chocolate syrup. Store in the refrigerator.
+
+nutrition:
+    calories: 205
+    fatContent: 11
+    saturatedFatContent: 7
+    cholesterolContent: 63
+    sodiumContent: 209
+    carbohydrateContent: 22
+    fiberContent: 1
+    sugarContent: 14
+    proteinContent: 4
 
 ---
 

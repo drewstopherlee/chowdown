@@ -2,6 +2,7 @@
 layout: recipe
 title: "Recipe Name"
 image: image.jpg
+imagecredit: 
 tags: dessert, sweet
 category:
 cuisine:
