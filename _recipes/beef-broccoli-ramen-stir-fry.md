@@ -22,7 +22,7 @@ ingredients:
 - Sesame seeds, for garnish
 
 directions:
-- Prepare sauce.
+- Prepare sauce (see below).
 - Bring a medium pot of water to boil; cook ramen until just tender, 2-3 minutes. Drain and rinse under cold water to stop them from cooking longer. Drizzle with the 1 tsp sesame oil to prevent sticking.
 - In a large non-stick skillet, warm 1 tablespoon of the olive oil over medium-high heat. Once the skillet is glistening hot, season steak with the salt and pepper and add to the skillet. Cook for about 3 minutes, without moving, to allow them to brown well on one side. Then stir and continue to cook for 2 more minutes, until cooked through. Remove the steak from skillet and drain off any accumulated grease.
 - Add the other tablespoon of olive oil to the skillet, along with the broccoli. Add 1/2 cup of water to the skillet and cover. Steam broccoli for 2 minutes. (Broccoli should be bright green and fork tender, but not mushy.)
@@ -47,4 +47,4 @@ nutrition:
 
 ---
 
-Additional info goes here.
+The popular Chinese restaurant beef and broccoli stir fry gets a delicious twist with ramen noodles, in this fantastic, easy 30-minute meal recipe!
