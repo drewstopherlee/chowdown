@@ -8,7 +8,7 @@ yield: (1) 9x13" cake
 ingredients:
 - 1 cup of water
 - ¼ teaspoon of salt
-- ½ cup of butter (1 stick)
+- ½ cup (1 stick) of butter
 - 4 eggs
 - 3 small packages of instant vanilla pudding
 - 1 cup of flour

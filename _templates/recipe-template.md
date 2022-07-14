@@ -21,12 +21,13 @@ nutrition:
     calories:
     fatContent:
     saturatedFatContent:
+    transFatContent:
     cholesterolContent:
     sodiumContent:
     carbohydrateContent:
     fiberContent:
     sugarContent:
-    proteinContent: 
+    proteinContent:
 
 ---
 
