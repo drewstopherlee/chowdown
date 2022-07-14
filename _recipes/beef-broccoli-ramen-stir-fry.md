@@ -11,7 +11,7 @@ cooktime: T15m
 totaltime: T30m
 
 ingredients:
-- 2 (3 ounce) packages of ramen noodles, seasoning packets discarded
+- 2 (3 oz.) packages of ramen noodles, seasoning packets discarded
 - 1 tsp sesame oil
 - 2 tbsp extra-virgin olive oil, divided
 - 1 pound sirloin steak , trimmed of fat and sliced into 1½" strips (about ¼" thickness)

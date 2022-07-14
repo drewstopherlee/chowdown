@@ -18,7 +18,7 @@ ingredients:
 - ¼ teaspoon ground cloves
 - 2 eggs
 - 1 (15 oz.) can pumpkin purée
-- 1 (12 oz.) can of evaporated milk
+- 1 (12 oz.) can evaporated milk
 
 directions:
 - Preheat the oven to 425°F.

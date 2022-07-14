@@ -7,17 +7,16 @@ tags: dessert, sweet
 yield: (1) 9x13" cake
 
 ingredients:
-- 1 cup of water
-- ¼ teaspoon of salt
-- ½ cup (1 stick) of butter
+- 1 cup water
+- ¼ tsp salt
+- ½ cup (1 stick) butter
 - 4 eggs
-- 3 small packages of instant vanilla pudding
-- 1 cup of flour
-- 8 ounces cream cheese (1 brick, softened)
-- ½ cup of milk
+- 3 small packages instant vanilla pudding
+- 1 cup flour
+- 8 oz. cream cheese (1 brick, softened)
+- ½ cup milk
 - 1 (8 oz.) whipped topping (defrosted)
-- ¼ cup of chocolate syrup
-  - Alternatively, chocolate powder or chocolate chips will work as a topping.
+- ¼ cup chocolate syrup (chocolate powder or chocolate chips will also work).
 
 directions:
 - Preheat oven to 450°F and grease a 9x13" baking pan.
