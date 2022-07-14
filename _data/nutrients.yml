@@ -35,7 +35,7 @@ proteinContent:
   description: The number of grams of protein.
   unit: g
 saturatedFatContent:
-  name: saturated fat
+  name: satur. fat
   type: Mass
   description: The number of grams of saturated fat.
   unit: g
