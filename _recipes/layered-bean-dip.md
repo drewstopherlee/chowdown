@@ -1,13 +1,13 @@
 ---
 layout: recipe
 title: "Southwestern Layered Bean Dip"
-image: image.jpeg
-imagecredit:
+image: layered-bean-dip.jpeg
+imagecredit: https://www.eatingwell.com/recipes/21340/holidays-occasions/occasions/super-bowl-party/chips-dip/
 tags: dip, snack, bean, salsa, spicy
 yield: 12 servings
-preptime: T
-cooktime: T
-totaltime: T
+preptime: T10m
+cooktime: T10m
+totaltime: T20m
 
 ingredients:
 - 1 (16 oz.) can refried beans, preferably spicy
@@ -32,13 +32,14 @@ directions:
 
 nutrition:
     servingSize: ½ cup
-    calories: 146
-    fatContent: 7
-    saturatedFatContent: 3
-    cholesterolContent: 12
-    sodiumContent: 288
-    carbohydrateContent: 15
-    fiberContent: 5
-    proteinContent: 7
+    calories: 145
+    fatContent: 6.7
+    saturatedFatContent: 2.9
+    cholesterolContent: 12.3
+    sodiumContent: 331.9
+    carbohydrateContent: 15.2
+    fiberContent: 5.2
+    sugarContent: 1.9
+    proteinContent: 7.4
 
 ---
