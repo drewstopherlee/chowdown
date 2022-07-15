@@ -23,7 +23,7 @@ directions:
 - Stir in egg whites and vanilla extract; mix well.
 - Drop by tablespoonful onto greased and floured cookie sheet.
 - Bake at 325°F for 20-25 minutes or until edges of macaroon are golden brown.
-- Immediately remove from cookie sheet and place on wire rack. Cool completely before serving.
+- Immediately remove from cookie sheet and place on cooling rack. Cool completely before serving.
 
 nutrition:
     servingSize: 1 macaroon

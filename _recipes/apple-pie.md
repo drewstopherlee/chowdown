@@ -18,7 +18,7 @@ ingredients:
 - Pinch of salt
 
 directions:
-- Preheat  oven to 375°F.
+- Preheat oven to 375°F.
 - Peel, core, and slice equal amounts of both varieties of apple.
 - Pour the combined apple slices into a pie plate until it forms a mound. Move that amount of apple slices to a large mixing bowl.
 - Mix dry ingredients and combine with the apple slices in the mixing bowl.
