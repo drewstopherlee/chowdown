@@ -30,7 +30,7 @@ directions:
 - Cool on cooling rack at least 2 hours before serving.
 
 nutrition:
-    servingSize: One slice
+    servingSize: 1 slice
     calories: 230
     fatContent: 6
     saturatedFatContent: 2.5

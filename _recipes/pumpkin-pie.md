@@ -32,7 +32,7 @@ directions:
 - Cool on cooling rack for at least 2 hours before serving. Serve immediately or refrigerate. (Do not freeze as this will cause the crust to separate from the filling.)
 
 nutrition:
-    servingSize: One slice
+    servingSize: 1 slice
     calories: 282.8
     fatContent: 12.1
     saturatedFatContent: 4.7

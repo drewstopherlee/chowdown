@@ -10,7 +10,7 @@ cooktime: T40m
 totaltime: T1h10m
 
 ingredients:
-- 1 roll (16.5 oz.) refrigerated sugar cookie dough
+- 1 (16.5 oz.) roll refrigerated sugar cookie dough
 - ¼ cup all-purpose flour
 - ¾ cup chopped, peeled apple (1 apple)
 - ½ tsp apple pie spice
@@ -28,19 +28,4 @@ directions:
 - Drizzle caramel over tops of cookies; sprinkle with pecans.
 - Serve at room temperature or store covered in the refrigerator.
 
-nutrition:
-    servingSize:
-    calories:
-    fatContent:
-    saturatedFatContent:
-    transFatContent:
-    cholesterolContent:
-    sodiumContent:
-    carbohydrateContent:
-    fiberContent:
-    sugarContent:
-    proteinContent:
-
 ---
-
-Additional info goes here.

@@ -15,10 +15,10 @@ ingredients:
 - ½ cup chopped onion
 - 2/3 cup water
 - 1 envelope taco seasoning
-- 1 can (15 oz.) black beans, drained and rinsed
-- 1 can (14.5 oz.) Mexican diced tomatoes, undrained
+- 1 (15 oz.) can black beans, drained and rinsed
+- 1 (14.5 oz.) can Mexican diced tomatoes, undrained
 - 6 flour tortillas (8 inch)
-- 1 can (16 oz.) refried beans
+- 1 (16 oz.) can refried beans
 - 3 cups shredded Mexican cheese blend
 
 directions:
@@ -31,7 +31,7 @@ directions:
 - Serve after cooling slightly; store covered in the refrigerator.
 
 nutrition:
-    servingSize: 1 piece
+    servingSize: Per piece
     calories: 448
     fatContent: 21
     saturatedFatContent: 11

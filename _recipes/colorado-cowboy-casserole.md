@@ -34,7 +34,7 @@ directions:
 - Bake for 30 minutes at 375°F until lightly brown and bubbly. Let rest for 5 minutes and serve.
 
 nutrition:
-    servingSize: One serving
+    servingSize: Per serving
     calories: 714
     fatContent: 38
     saturatedFatContent: 15

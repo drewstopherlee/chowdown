@@ -30,7 +30,7 @@ directions:
 - Serve and enjoy. Store leftover candy in an airtight container for up to a week.
 
 nutrition:
-    servingSize: One pinwheel slice
+    servingSize: 1 pinwheel slice
     calories: 94
     fatContent: 2
     saturatedFatContent: 2
