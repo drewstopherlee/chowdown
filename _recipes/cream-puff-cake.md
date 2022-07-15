@@ -3,7 +3,7 @@ layout: recipe
 title: "Cream Puff Cake"
 image: cream-puff-cake.jpg
 imagecredit: https://plowingthroughlife.com/cream-puff-cake/
-tags: dessert, sweet
+tags: dessert, sweet, pudding, chocolate, cream puff
 yield: (1) 9x13" cake
 
 ingredients:

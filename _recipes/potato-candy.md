@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Potato Candy"
+title: "Ma'am's Potato Candy"
 image: potato-candy.jpeg
 imagecredit: https://sugarspunrun.com/potato-candy/
 tags: dessert, sweet, peanut butter, Christmas
