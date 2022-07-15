@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Recipe Name"
-image: image.jpg
+image: image.jpeg
 imagecredit:
 tags: dessert, sweet
 category:
@@ -18,7 +18,7 @@ directions:
 -
 
 components:
-- 
+-
 
 nutrition:
     servingSize:
