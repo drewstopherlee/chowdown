@@ -25,7 +25,7 @@ ingredients:
 - 2½ cups (give or take) of tater tots, frozen
 
 directions:
-- Preheat over to 375°F. Grease a 2-quart casserole dish.
+- Preheat oven to 375°F. Grease a 2-quart casserole dish.
 - In a non-stick skillet, brown ground meat, drain.
 - Add onions, garlic, salt, pepper, and chili powder and heat through. Remove from the stove.
 - Add cream of mushroom soup, milk, drained corn, undrained chilis, and ½ cup cheese to browned ground beef. Mix well.

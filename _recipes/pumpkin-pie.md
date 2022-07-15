@@ -21,7 +21,7 @@ ingredients:
 - 1 (12 oz.) can evaporated milk
 
 directions:
-- Preheat the oven to 425°F.
+- Preheat oven to 425°F.
 - Combine sugar, salt, cinnamon, ginger and cloves in small bowl.
 - Beat eggs lightly in large bowl.
 - Stir in pumpkin and sugar-spice mixture.
