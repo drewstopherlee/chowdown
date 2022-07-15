@@ -11,7 +11,7 @@ ingredients:
 - ¼ tsp salt
 - ½ cup (1 stick) butter
 - 4 eggs
-- 3 small packages instant vanilla pudding
+- 3 (4 oz.) packages vanilla instant pudding
 - 1 cup flour
 - 8 oz. cream cheese (1 brick, softened)
 - ½ cup milk
