@@ -29,7 +29,7 @@ directions:
 - Add water and taco seasoning; bring to a boil. Reduce heat; simmer, uncovered, for 2 minutes.
 - Stir in black beans and tomatoes. Simmer, uncovered, for 10 minutes.
 - Place 2 tortillas into greased 9×13" baking dish. Spread half of the refried beans and half of the beef mixture; sprinkle with 1 cup cheese. Repeat layers. Top with remaining tortillas and cheese.
-- Cover and bake at 350° for 25-30 minutes or until heated through and cheese is melted.
+- Cover and bake at 350°F for 25-30 minutes or until heated through and cheese is melted.
 - Serve after cooling slightly; store covered in the refrigerator.
 
 nutrition:
