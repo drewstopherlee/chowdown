@@ -43,5 +43,3 @@ nutrition:
     proteinContent:
 
 ---
-
-Additional info goes here.
