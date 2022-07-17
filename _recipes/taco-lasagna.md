@@ -19,7 +19,7 @@ ingredients:
 - 1 envelope taco seasoning
 - 1 (15 oz.) can black beans, drained and rinsed
 - 1 (14.5 oz.) can Mexican diced tomatoes, undrained
-- 6 flour tortillas (8 inch)
+- 6 (8") flour tortillas
 - 1 (16 oz.) can refried beans
 - 3 cups shredded Mexican cheese blend
 
