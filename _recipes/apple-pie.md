@@ -4,6 +4,8 @@ title: "Ma'am's Apple Pie"
 image: apple-pie.jpeg
 imagecredit: https://tasty.co/recipe/60-minute-apple-pie
 tags: dessert, sweet, apple, thanksgiving
+category: dessert
+cuisine: American
 yield: (1) 9" pie
 preptime: T1h
 cooktime: T45m

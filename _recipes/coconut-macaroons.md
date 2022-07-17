@@ -5,9 +5,11 @@ image: coconut-macaroons.jpeg
 imagecredit: https://www.onceuponachef.com/recipes/coconut-macaroons.html
 tags: dessert, sweet, coconut, macaroon
 yield: About 12-18
-preptime: T
-cooktime: T
-totaltime: T
+category: dessert
+cuisine: Italian
+preptime: T35m
+cooktime: T30m
+totaltime: T1h5m
 
 ingredients:
 - 1⅓ cup Baker's Angel Flake Coconut (Sweetened)

@@ -4,6 +4,8 @@ title: "Peanut Butter Cup Cookies"
 image: peanut-butter-cup-cookies.jpeg
 imagecredit: https://www.bettycrocker.com/recipes/easy-peanut-butter-cookie-cups/110e9143-f4a6-48ed-84d5-135de2fb28e8
 tags: dessert, sweet, cookies, peanut, peanut butter, chocolate
+category: dessert
+cuisine: American
 yield: 40 cookies
 preptime: T45m
 cooktime: T15m

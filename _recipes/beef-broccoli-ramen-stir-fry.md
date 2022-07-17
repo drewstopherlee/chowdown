@@ -4,6 +4,7 @@ title: "Beef & Broccoli Ramen Stir-Fry"
 image: beef-broccoli-ramen-stir-fry.jpeg
 imagecredit: https://bellyfull.net/beef-and-broccoli-ramen-stir-fry/
 tags: asian, stirfry, stir fry, stir-fry, beef, ramen
+category: entrée
 cuisine: Asian
 yield: 5 servings
 preptime: T15m

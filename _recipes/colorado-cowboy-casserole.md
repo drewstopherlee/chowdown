@@ -4,6 +4,7 @@ title: "Colorado Cowboy Casserole"
 image: colorado-cowboy-casserole.jpeg
 imagecredit: https://commandcooking.com/post/cowboy_casserole
 tags: casserole, tater tots, cheese
+category: entrée
 cuisine: American
 yield: 6 servings
 preptime: T20m

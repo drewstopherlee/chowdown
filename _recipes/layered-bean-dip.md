@@ -4,6 +4,8 @@ title: "Southwestern Layered Bean Dip"
 image: layered-bean-dip.jpeg
 imagecredit: https://www.eatingwell.com/recipes/21340/holidays-occasions/occasions/super-bowl-party/chips-dip/
 tags: dip, snack, bean, salsa, spicy
+category: appetizer, snack
+cuisine: TexMex
 yield: 12 servings
 preptime: T10m
 cooktime: T10m

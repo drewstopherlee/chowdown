@@ -4,7 +4,7 @@ title: "Linda's Cream Puff Cake"
 image: cream-puff-cake.jpg
 imagecredit: https://plowingthroughlife.com/cream-puff-cake/
 tags: dessert, sweet, pudding, chocolate, cream puff
-yield: (1) 9x13" cake
+yield: (1) 9×13" cake
 
 ingredients:
 - 1 cup water
@@ -19,7 +19,7 @@ ingredients:
 - ¼ cup chocolate syrup (chocolate powder or chocolate chips will also work).
 
 directions:
-- Preheat oven to 450°F and grease a 9x13" baking pan.
+- Preheat oven to 450°F and grease a 9×13" baking pan.
 - Boil together water, butter and salt. Remove from heat and pour into a mixing bowl.
 - Add flour and beat by hand until it forms a ball or beat for a couple of minutes with an electric mixer until very well mixed.
 - Cool dough for 10 minutes.

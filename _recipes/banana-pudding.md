@@ -4,6 +4,8 @@ title: "Aunt Cindy's Banana Pudding"
 image: banana-pudding.jpeg
 imagecredit: https://www.adayinthebite.com/nilla-wafer-banana-pudding/
 tags: dessert, sweet, banana, pudding, nilla wafer
+category: dessert
+cuisine: American
 yield: 8-12 servings
 preptime: T10m
 cooktime: T20m

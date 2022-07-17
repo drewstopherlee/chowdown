@@ -4,6 +4,8 @@ title: "Peanut Butter Blossoms"
 image: peanut-blossoms.jpeg
 imagecredit: https://www.simplyrecipes.com/recipes/peanut_butter_blossoms/
 tags: dessert, sweet, cookies, peanut, peanut butter, chocolate
+category: dessert
+cuisine: American
 yield: 48 cookies
 preptime: T1h
 cooktime: T1h

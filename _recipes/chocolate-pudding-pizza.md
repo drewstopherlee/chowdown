@@ -4,6 +4,8 @@ title: "Chocolate Pudding Pizza"
 image: chocolate-pudding-pizza.jpeg
 imagecredit: https://www.tasteofhome.com/recipes/chocolate-pudding-pizza/
 tags: dessert, sweet, chocolate, pudding, pizza, peanut butter
+category: dessert
+cuisine: American
 yield: 12 servings
 preptime: T35m
 cooktime: T2h

@@ -4,6 +4,8 @@ title: "Pineapple & Cream Cheese Upside-Down Cake"
 image: pineapple-upside-down-cake.jpeg
 imagecredit: https://www.keyingredient.com/recipes/502422795/pineapple-and-cream-cheese-upside-down-cake/
 tags: dessert, sweet, pineapple, upside-down, upside down, cake, cherry, lemon
+category: dessert
+cuisine: American
 yield: 16 servings
 preptime: T25m
 cooktime: T1h10m

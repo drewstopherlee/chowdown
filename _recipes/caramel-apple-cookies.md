@@ -4,6 +4,8 @@ title: "Caramel Apple Cookies"
 image: caramel-apple-cookies.jpeg
 imagecredit: https://www.bettycrocker.com/recipes/caramel-apple-cookies/4f5c91e5-8c54-416d-9de7-383e6ffeee53
 tags: dessert, sweet, caramel, apple, cookies, sugar
+category: dessert
+cuisine: American
 yield: 24 cookies
 preptime: T30m
 cooktime: T40m

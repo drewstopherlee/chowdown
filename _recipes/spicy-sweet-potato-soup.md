@@ -2,6 +2,7 @@
 layout: recipe
 title: "Kiki's Spicy Sweet Potato Soup"
 tags: soup, sweet potato, spicy, relish
+category: entrée, appetizer
 preptime: T15m
 cooktime: T45m
 totaltime: T1h
