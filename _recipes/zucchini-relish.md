@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Recipe Name"
+title: "Sweet Zucchini Relish"
 image: zucchini-relish.jpeg
 imagecredit: https://www.allrecipes.com/recipe/172346/sweet-zucchini-relish/
 tags: sweet, relish, zucchini, condiment, canning
