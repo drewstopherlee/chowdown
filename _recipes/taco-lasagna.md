@@ -15,7 +15,7 @@ ingredients:
 - 1 lb. ground beef
 - ½ cup chopped green pepper
 - ½ cup chopped onion
-- 2/3 cup water
+- ⅔ cup water
 - 1 envelope taco seasoning
 - 1 (15 oz.) can black beans, drained and rinsed
 - 1 (14.5 oz.) can Mexican diced tomatoes, undrained
