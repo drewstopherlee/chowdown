@@ -3,7 +3,7 @@ layout: recipe
 title: "Recipe Name"
 image: image.jpeg
 imagecredit:
-tags: dessert, sweet
+tags: 
 category:
 cuisine:
 yield:

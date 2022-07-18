@@ -3,7 +3,7 @@ layout: recipe
 title: "Perfect, Fluffy Milk Bread"
 image: milk-bread.jpeg
 imagecredit: https://www.reddit.com/r/recipes/comments/gdpalr/the_perfect_fluffy_milk_bread/
-tags: dessert, sweet
+tags: dessert, sweet, bread, milk
 cuisine: Japanese
 preptime: T1h45m
 cooktime: T30m
