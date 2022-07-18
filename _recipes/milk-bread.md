@@ -5,10 +5,9 @@ image: milk-bread.jpeg
 imagecredit: https://www.reddit.com/r/recipes/comments/gdpalr/the_perfect_fluffy_milk_bread/
 tags: dessert, sweet
 cuisine: Japanese
-yield:
-preptime: T
-cooktime: T
-totaltime: T
+preptime: T1h45m
+cooktime: T30m
+totaltime: T2h30m
 
 ingredients:
 - 2½ cups all purpose flour
