@@ -12,12 +12,12 @@ totaltime: T35m
 
 ingredients:
 - 1 (16 oz.) box spaghetti
--	1 lb. ground beef
--	1 lb. Italian sausage, casing off
--	1 pack (about 8 oz.) pepperoni
--	1 (23.9 oz.) jar RAGÚ® meat sauce
--	1 (6 oz.) can tomato paste
--	Parmesan cheese to garnish
+- 1 lb. ground beef
+- 1 lb. Italian sausage, casing off
+- 1 pack (about 8 oz.) pepperoni
+- 1 (23.9 oz.) jar RAGÚ® meat sauce
+- 1 (6 oz.) can tomato paste
+- Parmesan cheese to garnish
 
 directions:
 - Cook spaghetti to desired tenderness.

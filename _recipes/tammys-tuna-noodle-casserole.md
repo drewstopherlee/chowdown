@@ -14,12 +14,12 @@ totaltime: T1h10m
 ingredients:
 - 1 (12 oz.) box San Giorgio Farfalle (bowtie pasta)
 - 2 (5 oz.) cans tuna, drained
--	½ white onion, diced
--	1 (8 oz.) block sharp white cheddar cheese
--	1 (12 oz.) can evaporated milk
--	1 (10.5 oz.) can cream of mushroom or cream of celery
--	⅓ cup canned peas (may use frozen)
--	Italian bread crumbs
+- ½ white onion, diced
+- 1 (8 oz.) block sharp white cheddar cheese
+- 1 (12 oz.) can evaporated milk
+- 1 (10.5 oz.) can cream of mushroom or cream of celery
+- ⅓ cup canned peas (may use frozen)
+- Italian bread crumbs
 - Mayonaisse
 
 directions:
